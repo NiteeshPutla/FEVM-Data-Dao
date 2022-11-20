@@ -6,8 +6,8 @@ Open up your terminal (or command prompt) and navigate to a directory you would 
 
 
 ```
-git clone https://github.com/filecoin-project/FEVM-Hardhat-Kit.git
-cd FEVM-hardhat-kit
+git clone https://github.com/NiteeshPutla/FEVM-Data-Dao
+cd FEVM-Data-Dao
 yarn install
 ```
 
